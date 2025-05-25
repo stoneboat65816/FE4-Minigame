@@ -1,0 +1,25 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Bạn nghe được bản nhạc sau đây ở<line>
+thời điểm nào?<song><$5D><pause><clear>
+Đang hỏi tới thời điểm nhé.<line>
+<ichigime><$0A><$0A>Opening<line>
+<ichigime><$0C><$0A>Ending<line>
+<ichigime><$0E><$0A>Game Over<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+
+

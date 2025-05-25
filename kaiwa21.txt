@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Chuẩn không cần chỉnh vì quá đỉnh!<line>
+Bản nhạc này có tên là "Vinh quang<line>
+cho đại quốc Grandbell".<pause><end>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Khi nghe bản nhạc sau đây thì bạn<line>
+liên tưởng tới sinh vật nào trong số<line>
+những sinh vật sau.<song><$85><pause><clear>
+Đây là câu hỏi về sinh vật.<line>
+<ichigime><$0A><$0A>Ngựa<line>
+<ichigime><$0C><$0A>Ngựa bay<line>
+<ichigime><$0E><$0A>Rồng<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+

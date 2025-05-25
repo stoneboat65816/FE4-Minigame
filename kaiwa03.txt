@@ -1,0 +1,27 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Còn bản nhạc sau đây gợi cho bạn<line>
+liên tưởng tới điều gì?<song><$4E><pause><clear>
+Bạn nghĩ tới điều gì?<line>
+<ichigime><$0A><$0A>Level up<line>
+<ichigime><$0C><$0A>Con múa<line>
+<ichigime><$0E><$0A>Hồi sinh<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+
+
+
+

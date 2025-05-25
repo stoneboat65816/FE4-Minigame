@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Chính xác!Bản nhạc nền này vang lên<line>
+mỗi khi thần phụ Claude dùng gậy phép<line>
+Valkyrie để hồi sinh người chết.<pause><end>
+
+
+
+
+
+
+
+
+

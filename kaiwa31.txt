@@ -1,0 +1,23 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Bạn chỉ có thể nghe thấy bản nhạc này<line>
+1 lần duy nhất trong game,trong phần<line>
+Ending với cảnh chim bay trong rừng.<pause><clear>
+Cảnh này chỉ được kích hoạt khi người<line>
+chơi được xếp hạng S,cấp cao nhất.<line>
+Thế nên "Rank S" là câu trả lời đúng.<pause><end>
+
+
+
+
+
+
+
+
+

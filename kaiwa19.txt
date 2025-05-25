@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Chuẩn!Đây là bản nhạc cầu hồn vang<line>
+lên báo hiệu Game Over,khi thành chính<line>
+bị địch chiếm hoặc chủ tướng tử trận.<pause><end>
+
+
+
+
+
+
+
+
+

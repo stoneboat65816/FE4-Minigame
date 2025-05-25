@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Điểm số của bạn là:6 điểm.<line>
+Bạn đúng là fan của Mộc Đế 4,<line>
+nhưng mà là fan phong trào!<pause><end>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Đúng vậy.Đây là nhạc hiệu của đội<line>
+quân Long kỵ sĩ xứ Thracia nên rồng<line>
+là một đáp án đúng,không lộn tí nào.<pause><end>
+
+
+
+
+
+
+
+
+

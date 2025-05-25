@@ -1,0 +1,29 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Thành cuối cùng trong màn có bản<line>
+nhạc sau đây là thành nào?<song><$1B><pause><clear>
+Nghe cho kỹ nào.<line>
+<ichigime><$0A><$0A>Radoz<line>
+<ichigime><$0C><$0A>Chalphy<line>
+<ichigime><$0E><$0A>Lenster<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

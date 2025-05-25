@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Điểm số của bạn là:3 điểm.<line>
+Vậy mà cũng xưng là fan của<line>
+Fire Emblem 4 á!?Đùa à!?<pause><end>
+
+
+
+
+
+
+
+
+

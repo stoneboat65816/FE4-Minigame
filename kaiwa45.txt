@@ -1,0 +1,21 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Mini-game của chúng ta đến đây là hết.<line>
+Cảm ơn bạn đã dành thời gian chơi hết<line>
+cái game này :))))<pause><clear>
+Chào thân ái và quyết thắng!<pause><end>
+
+
+
+
+
+
+
+
+

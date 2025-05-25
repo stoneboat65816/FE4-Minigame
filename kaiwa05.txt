@@ -1,0 +1,25 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+<text_speed><$03>
+Sau đây là nhạc hiệu của quốc gia<line>
+nào trong Mộc Đế 4?<song><$5E><pause><clear>
+Lưu ý câu hỏi về tên đất nước nhé.<line>
+<ichigime><$0A><$0A>Thracia<line>
+<ichigime><$0C><$0A>Grandbell<line>
+<ichigime><$0E><$0A>Augustria<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+

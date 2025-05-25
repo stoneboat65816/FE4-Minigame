@@ -1,0 +1,23 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Đúng rồi.Đây là bản nhạc kết thúc phần<line>
+chơi của đạo quân Sigurd,sau khi bị<line>
+Arvis hỏa thiêu ở thành Barhara.<pause><clear>
+Bản nhạc này chỉ được chơi duy nhất<line>
+trong phần kết thúc đời Sigurd nên bạn<line>
+chỉ có thể nghe được nó 01 lần duy nhất.<pause><end>
+
+
+
+
+
+
+
+
+

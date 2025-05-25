@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Đúng quá đúng!<line>
+Đây là nhạc nền của thành chính<line>
+Miletos ở màn kế cuối.<pause><end>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Còn bản nhạc sau đây là nhạc hiệu<line>
+của quân đội nào?<song><$19><pause><clear>
+Nhớ là đang hỏi về quân đội nhé.<line>
+<ichigime><$0A><$0A>Grandbell<line>
+<ichigime><$0C><$0A>Augustria<line>
+<ichigime><$0E><$0A>Verdane<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Điểm số của bạn là:9 điểm.<line>
+Cố lên!Chỉ còn một tẹo nữa thôi<line>
+là đạt điểm tuyệt đối rồi!<pause><end>
+
+
+
+
+
+
+
+
+

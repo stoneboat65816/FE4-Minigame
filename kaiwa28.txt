@@ -1,0 +1,26 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Sai!Bản nhạc này gắn liền với cảnh<line>
+Arivis dùng gian kế dụ Sigurd vào bẫy<line>
+rồi dùng hỏa thần Fala thiêu rụi cả đội.<pause><clear>
+Thảm kịch này kết thúc phần chơi của<line>
+Sigurd,mở ra phần chơi của Selith ở<line>
+đời sau.<pause><clear>
+Người đời vẫn gọi đây là<line>
+"bi kịch Barhara" vì sự kiện này xảy<line>
+ra ngay trước cổng thành Barhara.<pause><end>
+
+
+
+
+
+
+
+
+

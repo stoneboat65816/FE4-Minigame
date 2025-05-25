@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Đúng rồi.Bản nhạc nền này được chơi<line>
+ở màn xứ tuyết Silesia,nơi mà ta lấy<line>
+được ma đạo thư Phong thần Forsety.<pause><end>
+
+
+
+
+
+
+
+
+

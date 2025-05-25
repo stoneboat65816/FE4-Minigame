@@ -1,0 +1,23 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Bạn có thể nghe được bản nhạc này<line>
+bao nhiêu lần trong suốt game?<song><$6A><pause><clear>
+Lưu ý câu hỏi về số lần nhé.<line>
+<ichigime><$0A><$0A>0 lần<line>
+<ichigime><$0C><$0A>1 lần<line>
+<ichigime><$0E><$0A>Hơn 1 lần<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+

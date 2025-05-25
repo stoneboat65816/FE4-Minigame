@@ -1,0 +1,24 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Đúng rồi,đây là nhạc nền của màn<line>
+kế cuối trong Mộc Đế 4.Đây là màn mà<line>
+quân đội Serith đánh vào Chalphy,<pause><clear>
+đụng độ Hoàng đế Arvis để báo thù<line>
+cho Sigurd.Và thành trì cuối cùng ở<line>
+màn này chính là thành Chalphy.<pause><end>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Vậy là bạn đã hoàn tất 10 câu hỏi<line>
+về nhạc nền của Mộc Đế 4.Tiếp sau đây<line>
+là phần đánh giá điểm số của bạn.<pause><end>
+
+
+
+
+
+
+
+
+

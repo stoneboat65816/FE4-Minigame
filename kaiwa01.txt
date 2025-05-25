@@ -1,0 +1,21 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Món vũ khí nào mà bạn nhận được<line>
+trong cái màn có bản nhạc này?<song><$1F><pause><clear>
+Nghe cho kỹ nào.<line>
+<ichigime><$0A><$0A>Forsety<line>
+<ichigime><$0C><$0A>Balmunk<line>
+<ichigime><$0E><$0A>Tyrfing<pause><clear><hantei><end>
+
+
+
+
+
+
+

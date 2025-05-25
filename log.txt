@@ -1,0 +1,6 @@
+     2 ADDTBL    Added table 'kaiwa.tbl' as 'Table'
+     3 ACTIVETBL Active table is now 'Table'
+     4 HDR       Header size is now $0
+     5 SMA       Addressing type is now 'HIROM'
+     7 JMP       ROM Position is now $0
+<text_speed><$03>Mini-game của chúng ta đến đây là hết.<line>Cảm ơn bạn đã dành thời gian chơi hết<line>cái game này :))))<pause><clear>Chào thân ái và quyết thắng!<pause><end>

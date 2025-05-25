@@ -1,0 +1,22 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Sai bét nhè chè đỗ đen.Đây là bản nhạc<line>
+nền ở màn xứ tuyết Silesia.<pause><clear>
+Sau khi áp chế thành Silesia thì cho<line>
+Levin vào thành để nhận cuốn ma đạo<line>
+thư Phong thần Forsety.<pause><end>
+
+
+
+
+
+
+
+
+

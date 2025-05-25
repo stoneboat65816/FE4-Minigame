@@ -1,0 +1,24 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Sự kiện gắn liền với bản nhạc sau<line>
+đây diễn ra ở đâu?<song><$78><pause><clear>
+Đây là câu hỏi về địa điểm của sự kiện.<line>
+<ichigime><$0A><$0A>Evans<line>
+<ichigime><$0C><$0A>Barhara<line>
+<ichigime><$0E><$0A>Capathogia<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+

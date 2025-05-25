@@ -1,0 +1,24 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Bản nhạc sau đây là nhạc hiệu của<line>
+thành nào khi bạn vào trong thành đó?<song><$71><pause><clear>
+Đây là câu hỏi về nhạc nền trong thành.<line>
+<ichigime><$0A><$0A>Manster<line>
+<ichigime><$0C><$0A>Chalphy<line>
+<ichigime><$0E><$0A>Miletos<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+

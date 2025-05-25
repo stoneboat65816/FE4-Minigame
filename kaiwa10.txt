@@ -1,0 +1,24 @@
+#VAR(Table,TABLE)
+#ADDTBL("kaiwa.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#SMA("HIROM")
+
+#JMP($0000)
+<text_speed><$03>
+Bạn được xếp hạng gì khi nghe<line>
+thấy bản nhạc sau đây?<song><$0D><pause><clear>
+Đây là câu hỏi về thứ hạng.<line>
+<ichigime><$0A><$0A>Rank A<line>
+<ichigime><$0C><$0A>Rank B<line>
+<ichigime><$0E><$0A>Rank S<pause><clear><hantei><end>
+
+
+
+
+
+
+
+
+
+
