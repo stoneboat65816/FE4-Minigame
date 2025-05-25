@@ -1,0 +1,14 @@
+01={fadein}
+02={fadeout}
+03={load_mikata_class}
+04={wait}
+05={force_blank}
+06={BGM}
+07={sfx1}
+08={sfx2}
+09={bg2scroll}
+0A={bg1scroll}
+0B={move_oam}
+0C={increment_submode}
+
+FFFF={end}

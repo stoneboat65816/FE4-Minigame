@@ -1,0 +1,9 @@
+#VAR(Table,TABLE)
+#ADDTBL("event.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#VAR(MyPtr, CUSTOMPOINTER)
+
+#JMP($00)
+{fadein}<$06><$0F>
+{end}

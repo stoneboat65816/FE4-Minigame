@@ -1,0 +1,29 @@
+#VAR(Table,TABLE)
+#ADDTBL("event.tbl",Table)
+#ACTIVETBL(Table)
+#HDR($0)
+#VAR(MyPtr, CUSTOMPOINTER)
+
+#JMP($00)
+{load_mikata_class}
+//class00 act00
+<$00><$00><$00><$00>
+//x pos y pos
+<$00><$00><$A0><$00>
+//oam atr1 oam atr2
+<$00><$20><$00><$00>
+//col slot - sfx
+<$08><$03>
+
+{fadein}<$06><$0F>
+{move_oam}<$01><$02><$20><$00>
+{bg1scroll}<$01><$02><$F0><$01>
+{move_oam}<$01><$03><$50><$00>
+{move_oam}<$01><$02><$88><$00>
+{move_oam}<$01><$04><$A8><$00>
+{move_oam}<$01><$02><$C8><$00>
+{wait}<$30><$00>
+{fadeout}<$06><$00>
+{BGM}<$20>
+{increment_submode}
+{end}
